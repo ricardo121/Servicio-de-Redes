@@ -96,7 +96,7 @@
 ---
 
 
-#### Respuestas HTTP
+#### Características de HTTP 2.0
 
 <p style="font-size:25px">HTTP/2 llega con el objetivo de mejorar las carencias existentes en las anteriores versiones. Sus características son las siguientes:
 </p>
