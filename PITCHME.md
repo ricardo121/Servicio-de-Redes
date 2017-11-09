@@ -45,3 +45,13 @@
   </li>
 </ul>
 ---
+
+<p style="font-size:25px">Los encabezados también se pueden agrupar según la forma en que los proxies los manejan:
+</p>
+<ul>  
+  <li style="font-size:20px"><b>Encabezados de extremo a extremo:</b>Estos encabezados deben transmitirse al destinatario final del mensaje; es decir, el servidor para una solicitud o el cliente para una respuesta. Los proxies intermedios deben retransmitir los encabezados de extremo a extremo sin modificar y los cachés deben almacenarlos.
+  </li>
+  <li style="font-size:20px"><b>Cabeceras hop-by-hop:</b>Estos encabezados son significativos solo para una conexión de nivel de transporte único y no deben ser retransmitidos por proxies o almacenados en caché. Tales cabeceras son: Connection, Keep-Alive, Proxy-Authenticate, Proxy-Authorization, TE, Trailer, Transfer-Encodingy Upgrade. Tenga en cuenta que solo los encabezados hop-by-hop se pueden configurar usando el Connectionencabezado general.
+  </li>
+</ul>
+---
