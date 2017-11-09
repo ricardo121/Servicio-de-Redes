@@ -87,3 +87,38 @@
   </li>
 </ul>
 ---
+
+#### Evolución de HTTP
+
+<p style="font-size:25px">HTTP es el protocolo en el que se basa la Web. Fue inventado por Tim Berners-Lee entre los años 1989-1991, HTTP ha visto muchos cambios, manteniendo la mayor parte de su simplicidad y desarrollando su flexibilidad. HTTP ha evolucionado, desde un protocolo destinado al intercambio de archivos en un entorno de un laboratorio semi-seguro, al actual laberinto de Internet, sirviendo ahora para el intercambio de imágenes, vídeos en alta resolución y en 3D.
+</p>
+
+---
+
+
+#### Respuestas HTTP
+
+<p style="font-size:25px">HTTP/2 llega con el objetivo de mejorar las carencias existentes en las anteriores versiones. Sus características son las siguientes:
+</p>
+<ul>  
+  <li style="font-size:20px"><b>Una única conexión</b>
+  </li>
+  <li style="font-size:20px"><b>Eliminación de información redundante</b>
+  </li>
+  <li style="font-size:20px"><b>Multiplexación</b>
+  </li>
+  <li style="font-size:20px"><b>HTTP 2.0 es un protocolo binario</b>
+  </li>
+  <li style="font-size:20px"><b>Servicio 'server push'</b>
+  </li>
+  </li>
+  <li style="font-size:20px"><b>Compresión de cabeceras para transmitir menos información</b>
+  </li>
+  </li>
+  <li style="font-size:20px"><b>Priorización de flujos</b>
+  </li>
+  </li>
+  <li style="font-size:20px"><b>No requiere cifrado TLS</b>
+  </li>
+</ul>
+---
